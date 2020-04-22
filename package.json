@@ -1,0 +1,22 @@
+{
+  "name": "kapozh",
+  "version": "1.0.0",
+  "main": "kapoZH.js",
+  "dependencies": {
+    "assert": "^1.4.1",
+    "botbuilder-adapter-webex": "^1.0.3",
+    "botkit": "^4.5",
+    "jfs": "^0.3.0",
+    "node-env-file": "^0.1.8",
+    "randomstring": "^1.1.5",
+    "request": "^2.88.0",
+    "twilio": "^3.23.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node kapoZH.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
