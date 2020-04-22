@@ -1,7 +1,7 @@
 # Emergency Responder
-Emergency Responder Bot for Webex Teams
+Emergency Responder Bot for Webex Teams using Cards
 
-This bot is intended to support emergency situations where several disperse parties have to collaborate quickly. By initiating the bot with "help" several questions are asked it to understand the emergency situation, location, to create a Webex Teams space with the relevant persons and send SMS messages to them. 
+This bot is intended to support emergency situations where several disperse parties have to collaborate quickly. By initiating the bot with "help" several questions are asked to understand the emergency situation, location, and to create a Webex Teams space with the relevant persons and send SMS messages to them. The bot leverages the Buttons & Cards functionalities in Webex Teams to make it even easier for the user to respond. 
 
 As this bot is for demonstration purposes only, the location data as well as images are static. 
 
